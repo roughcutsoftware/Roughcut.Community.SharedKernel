@@ -1,0 +1,15 @@
+﻿https://www.nuget.org/packages/Shouldly/3.0.2
+Install-Package Shouldly -Version 3.0.2
+dotnet add package Shouldly --version 3.0.2
+
+https://www.nuget.org/packages/NUnit/
+Install-Package NUnit -Version 3.12.0
+dotnet add package NUnit --version 3.12.0
+
+https://www.nuget.org/packages/NUnit3TestAdapter/3.17.0
+Install-Package NUnit3TestAdapter -Version 3.16.1
+dotnet add package NUnit3TestAdapter --version 3.16.1
+
+https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/16.5.0
+Install-Package Microsoft.NET.Test.Sdk -Version 16.5.0
+dotnet add package Microsoft.NET.Test.Sdk --version 16.5.0
