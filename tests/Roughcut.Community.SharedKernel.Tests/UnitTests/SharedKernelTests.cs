@@ -7,8 +7,15 @@ using Shouldly;
 
 namespace Roughcut.Community.SharedKernel.Tests.UnitTests
 {
+    [TestFixture()]
     public class SharedKernelTests
     {
+        
+        public SharedKernelTests()
+        {
+            
+        }
+
         [SetUp]
         public void Setup()
         {
