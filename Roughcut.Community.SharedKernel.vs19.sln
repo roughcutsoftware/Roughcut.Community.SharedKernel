@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roughcut.Community.SharedKe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roughcut.Community.SharedKernel.Tester.Cmd", "playground\Roughcut.Community.SharedKernel.Tester.Cmd\Roughcut.Community.SharedKernel.Tester.Cmd.csproj", "{CC611DCA-C6C4-4FD0-BAE4-DD622E0337AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roughcut.Community.SharedKernel.Web", "playground\Roughcut.Community.SharedKernel.Web\Roughcut.Community.SharedKernel.Web.csproj", "{605CE5B3-BF38-4FAD-9300-4A3918894039}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC611DCA-C6C4-4FD0-BAE4-DD622E0337AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC611DCA-C6C4-4FD0-BAE4-DD622E0337AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC611DCA-C6C4-4FD0-BAE4-DD622E0337AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605CE5B3-BF38-4FAD-9300-4A3918894039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605CE5B3-BF38-4FAD-9300-4A3918894039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605CE5B3-BF38-4FAD-9300-4A3918894039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605CE5B3-BF38-4FAD-9300-4A3918894039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
